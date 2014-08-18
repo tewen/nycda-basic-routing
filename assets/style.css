@@ -1,0 +1,8 @@
+.header span, a {
+    float: left;
+    padding: 5px;
+}
+
+.header a {
+    cursor: pointer;
+}
